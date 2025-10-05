@@ -1,4 +1,4 @@
-package com.leetcode.graphsample
+package com.leetcode.graphsample.graph
 
 class WeightedGraph(private val vertices: Int) {
     private val adjacencyList : MutableList<MutableList<GraphEdge>> =

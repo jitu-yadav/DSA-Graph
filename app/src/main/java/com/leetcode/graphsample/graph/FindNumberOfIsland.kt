@@ -1,4 +1,4 @@
-package com.leetcode.graphsample
+package com.leetcode.graphsample.graph
 
 object FindNumberOfIsland {
 
